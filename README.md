@@ -9,7 +9,7 @@ Here are some facts about me:
 - 📦 I happily welcome contributions to [LaravelModules](https://github.com/erlandmuchasaj/laravel-modules).
 - 🖊️ I'm blogging at [Medium.com](https://medium.com/@erlandmuchasaj).
 - 👯 I’m looking forward to collaborate on more open source projects.
-- 📫 Reach me: [@muchasaj](https://twitter.com/muchasaj).
+- 📫 Reach me at: [@muchasaj](https://twitter.com/muchasaj).
 - ⚡ Fun fact: I'm also known as **Ndershkuesi**. 
 
 ## 📩 Latest Blog Posts
