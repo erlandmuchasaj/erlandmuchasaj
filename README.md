@@ -14,7 +14,7 @@ Here are some facts about me:
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel eloquen searchin](https://medium.com/@erlandmuchasaj/laravel-eloquent-searching-part-1-c45e015d501d)
-- [PHP input sanitizer](https://medium.com/@erlandmuchasaj/php-user-input-sanitizer-a56961132ab)
+- [Laravel eloquen searching](https://medium.com/@erlandmuchasaj/laravel-eloquent-searching-part-1-c45e015d501d)
+- [PHP user input sanitizer](https://medium.com/@erlandmuchasaj/php-user-input-sanitizer-a56961132ab)
 - [Upload files on laravel 10](https://medium.com/@erlandmuchasaj/upload-files-on-laravel-10-f323030d90ea)
 <!-- BLOG-POST-LIST:END -->
