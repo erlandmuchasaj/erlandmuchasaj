@@ -11,6 +11,7 @@ Here are some facts about me:
 - 👯 I’m looking forward to collaborate on more open source projects.
 - 📫 Reach me at: [@muchasaj](https://twitter.com/muchasaj).
 - ⚡ Fun fact: I'm also known as **Ndershkuesi**. 
+- 📈 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferlandmuchasaj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
